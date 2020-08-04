@@ -18,4 +18,4 @@ _A HTML Website about my favorite things_
 
 _MIT Fair Use_
 
-Copyright 2020, Michael Watts
+Copyright 2020, Michael Watts, Jonelle Noelani, Mike Manchee

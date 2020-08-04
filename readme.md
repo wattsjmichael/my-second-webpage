@@ -10,9 +10,9 @@ _A HTML Website about my favorite things_
 
 ## Setup
 
-*_Clone Repo from Github_
-*_Open with your favorite browser_
-*_Enjoy!_
+* _Clone Repo from Github_
+* _Open with your favorite browser_
+* _Enjoy!_
 
 ### License
 
